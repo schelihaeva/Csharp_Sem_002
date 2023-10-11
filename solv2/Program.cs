@@ -8,6 +8,7 @@ Random rand = new Random();
 int randomNumber = rand.Next(100, 1000);
 int leftDigit = randomNumber / 100;
 int rightDigit = randomNumber % 10;
-int result = leftDigit * 10 + rightDigit;
-System.Console.WriteLine(randomNumber + "->"+ result);
+System.Console.WriteLine(leftDigit + "" + rightDigit);
+//int result = leftDigit * 10 + rightDigit;
+//System.Console.WriteLine(randomNumber + "->"+ result);
 
