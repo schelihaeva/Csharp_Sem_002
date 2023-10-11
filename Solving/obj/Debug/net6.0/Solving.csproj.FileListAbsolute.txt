@@ -1,0 +1,15 @@
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\Solving\obj\Debug\net6.0\Solving.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\Solving\obj\Debug\net6.0\Solving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\Solving\obj\Debug\net6.0\Solving.AssemblyInfoInputs.cache
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\Solving\obj\Debug\net6.0\Solving.AssemblyInfo.cs
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\Solving\obj\Debug\net6.0\Solving.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\Solving\bin\Debug\net6.0\Solving.exe
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\Solving\bin\Debug\net6.0\Solving.deps.json
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\Solving\bin\Debug\net6.0\Solving.runtimeconfig.json
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\Solving\bin\Debug\net6.0\Solving.dll
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\Solving\bin\Debug\net6.0\Solving.pdb
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\Solving\obj\Debug\net6.0\Solving.dll
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\Solving\obj\Debug\net6.0\refint\Solving.dll
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\Solving\obj\Debug\net6.0\Solving.pdb
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\Solving\obj\Debug\net6.0\Solving.genruntimeconfig.cache
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\Solving\obj\Debug\net6.0\ref\Solving.dll
