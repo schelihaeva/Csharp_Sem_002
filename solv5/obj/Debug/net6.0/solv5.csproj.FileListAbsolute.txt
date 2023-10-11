@@ -1,0 +1,15 @@
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\solv5\bin\Debug\net6.0\solv5.exe
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\solv5\bin\Debug\net6.0\solv5.deps.json
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\solv5\bin\Debug\net6.0\solv5.runtimeconfig.json
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\solv5\bin\Debug\net6.0\solv5.dll
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\solv5\bin\Debug\net6.0\solv5.pdb
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\solv5\obj\Debug\net6.0\solv5.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\solv5\obj\Debug\net6.0\solv5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\solv5\obj\Debug\net6.0\solv5.AssemblyInfoInputs.cache
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\solv5\obj\Debug\net6.0\solv5.AssemblyInfo.cs
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\solv5\obj\Debug\net6.0\solv5.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\solv5\obj\Debug\net6.0\solv5.dll
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\solv5\obj\Debug\net6.0\refint\solv5.dll
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\solv5\obj\Debug\net6.0\solv5.pdb
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\solv5\obj\Debug\net6.0\solv5.genruntimeconfig.cache
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\solv5\obj\Debug\net6.0\ref\solv5.dll
