@@ -1,0 +1,5 @@
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\DZ_003\obj\Debug\net6.0\DZ_003.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\DZ_003\obj\Debug\net6.0\DZ_003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\DZ_003\obj\Debug\net6.0\DZ_003.AssemblyInfoInputs.cache
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\DZ_003\obj\Debug\net6.0\DZ_003.AssemblyInfo.cs
+C:\Users\Татьяна\Desktop\C sharp\Семинары\ДЗ к семинарам\Семинар 2 ДЗ\Sem_2\DZ_003\obj\Debug\net6.0\DZ_003.csproj.CoreCompileInputs.cache
